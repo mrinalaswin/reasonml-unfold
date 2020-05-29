@@ -11,6 +11,7 @@ yarn global add bs-platform
 
 # What does this contain
 1. How to declare a map type in Reason ML.
+2. How to work on Arrays and Lists in Reason ML.
 
 # How to run?
 1. Build the solution 
