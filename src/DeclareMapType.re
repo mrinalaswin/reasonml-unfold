@@ -1,8 +1,13 @@
 /*
   This code illustrates an example of how to declare a map type in Reason ML.
   Reference: https://github.com/glennsl/bucklescript-cookbook#create-a-map-data-structure-add-or-replace-an-entry-and-print-each-keyvalue-pair
-  
+
   Author: Mrinal Aswin
+ */
+
+/*
+  What is Map type?
+  > The map type represents a collection of elements where each element is stored as a key-value pair.
  */
 
 /*
